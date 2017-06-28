@@ -1,4 +1,4 @@
-# bubbles
+# Random Bubble Animation Background
 
 > A Vue.js project
 
